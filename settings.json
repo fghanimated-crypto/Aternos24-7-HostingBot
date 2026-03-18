@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "reze",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "reze",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "FghRtSMP.aternos.me",
+    "port": 61905,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a noob",
+        "Subscribe to fghanimated2f!",
+        "denji u know why i didn't killed you at first cause i also didn't had chance to go school either!"
       ]
     },
     "chat-log": true,
